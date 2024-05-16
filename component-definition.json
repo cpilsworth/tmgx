@@ -131,8 +131,9 @@
                 "template": {
                   "name": "Lead image",
                   "model": "lead-image",
+                  "image": "",
+                  "imageAlt": "",
                   "caption": "",
-                  "description": "",
                   "agency": "",
                   "artist": ""
                 }
