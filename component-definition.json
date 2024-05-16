@@ -131,8 +131,8 @@
                 "template": {
                   "name": "Lead image",
                   "model": "leadImage",
-                  "caption": "<p>Think, McFly! Think!</p>",
-                  "description": "Biff Tannen",
+                  "caption": "",
+                  "description": "",
                   "agency": "",
                   "artist": ""
                 }

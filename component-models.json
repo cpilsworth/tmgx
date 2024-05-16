@@ -207,7 +207,7 @@
         "component": "text",
         "valueType": "string",
         "name": "description",
-        "label": "description",
+        "label": "Description",
         "value": ""
       },
       {
