@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--tmg--cpilsworth.hlx.page/
-- Live: https://main--tmg--cpilsworth.hlx.live/
+- Preview: https://main--tmgx--cpilsworth.hlx.page/
+- Live: https://main--tmgx--cpilsworth.hlx.live/
 
 ## Installation
 
