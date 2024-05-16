@@ -185,5 +185,45 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "leadImage",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Image",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "caption",
+        "label": "Caption",
+        "value": ""
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "description",
+        "label": "description",
+        "value": ""
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "agency",
+        "label": "Agency",
+        "value": ""
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "artist",
+        "label": "Artist",
+        "value": ""
+      }
+    ]
   }
 ]
